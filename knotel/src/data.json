@@ -1,0 +1,198 @@
+{
+  "top": {
+    "logo": "",
+    "phone": "678-827-2782",
+    "email": " hellohello@knotel.com ",
+    "button": {
+      "name": "login",
+      "route": "/login"
+    }
+  },
+  "header": {
+    "title": "Commit to your business, not a lease",
+    "subtitle": "Headquarters as a Service",
+    "img": "",
+    "buttons": [
+      {
+        "name": "Book a tour",
+        "onclick": "popup"
+      },
+      {
+        "name": "we're hiring",
+        "route": "/careers"
+      }
+    ],
+    "navs": [
+      {
+        "name": "locations",
+        "route": "/locations"
+      },
+      {
+        "name": "spaces",
+        "route": "/spaces"
+      },
+      {
+        "name": "services",
+        "route": "/services"
+      },
+      {
+        "name": "events",
+        "route": "/events"
+      }
+    ],
+    "subbuttons": [
+      {
+        "name": "tenant reps",
+        "route": "/brokers"
+      },
+      {
+        "name": "i have space",
+        "route": "/property"
+      }
+    ]
+  },
+  "sections": {
+    "location": {
+      "title": "Our Locations"
+    },
+    "spaces": {
+      "title": "Spaces We Offer",
+      "content": [
+        {
+          "title": "Flexible Workspace For Growing Teams",
+          "text": "We provide the resources so growing teams can focus their business. Many of our companies have graduated from coworking spaces.",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/static-assets/b9c999fe661a_bi-1.2.jpg"
+        },
+        {
+          "title": "Branded Floors for Established Companies",
+          "text": "When you need your own floor we provide dedicated, branded space for your company with a backbone of Knotel management.",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/static-assets/248ae14d200a_bi-2.2.jpg"
+        },
+        {
+          "title": "Flagship Buildings for World Leaders",
+          "text": "When you are ready to take over the world, Knotel will take over a building for you. Turnkey commercial real estate at any size.",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/static-assets/c70329660085_bi-3.2.jpg"
+        }
+      ]
+    },
+    "services": {
+      "title": "Services We Provider",
+      "content": [
+        {
+          "title": "Sourcing and Buildout",
+          "text": "Knotel bundles property market insight with interior design expertise and buildout management, which ensures the client’s space vision is met on time, on budget, and without headaches.",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/static-assets/8f8f66ee13eb_sosa-1.2.jpg"
+        },
+        {
+          "title": "Seamless Operations",
+          "text": "Knotel provides comprehensive office services powered by domain experts and best of breed technology. Enjoy the highest ratio of conference rooms per person in the industry, and exclusive deals at a high quality set of partners",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/static-assets/7544c67a4c57_bloglovin1.jpg"
+        },
+        {
+          "title": "Flexible Terms",
+          "text": "Knotel has a simple pricing structure with flexible terms. We offer various month to month and fixed term agreements tailored to your needs.",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/static-assets/485190b7ab5f_be-1.1.jpg"
+        },
+        {
+          "title": "Events and Community",
+          "text": "Knotels are vibrant spaces, with engaged communities and a strong roster of events. Enjoy office hours and informal access to like-minded industry professionals.",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/static-assets/b973c2ec7e9d_be-3.jpg"
+        }
+      ]
+    }
+  },
+  "form": {
+    "title": "Events we're hosting",
+    "subtitle": "Stay in the know about Knotel events and news",
+    "inputs": [
+      {
+        "placeholder": "First Name (required)"
+      },
+      {
+        "placeholder": "Last Name (required)"
+      },
+      {
+        "placeholder": "Email (required)"
+      }
+    ],
+    "submit": "subscribe"
+  },
+  "events": [
+    {
+      "title": "COMING EVENTS",
+      "whiteframe": [
+        {
+          "title": "Transforming the Built Environment",
+          "timeAt": "6:30 pm",
+          "timeTo": "9:00 pm",
+          "where": "Bryant",
+          "date": "20",
+          "month": "jun",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/events/45c261c888dd_maxresdefault.jpg"
+        },
+        {
+          "title": "Knotel Private Founders Series",
+          "timeAt": "5:00 pm",
+          "timeTo": "7:00 pm",
+          "where": "Union Sq 1",
+          "date": "14",
+          "month": "sep",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/events/0fd7beb2f110_Parrot Memento Knotel.png"
+        }
+      ]
+    },
+    {
+      "title": "PAST EVENTS",
+      "whiteframe": [
+        {
+          "title": "Entrepreneurship Council",
+          "timeAt": "8:30 pm",
+          "timeTo": "10:00 pm",
+          "where": "",
+          "date": "07",
+          "month": "jun",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/events/ccef3062d18d_manhattan-logo.jpg"
+        },
+        {
+          "title": "#AfterResist: Maker Cities, Future America",
+          "timeAt": "6:00 pm",
+          "timeTo": "8:00 pm",
+          "where": "Qlabs",
+          "date": "06",
+          "month": "jun",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/events/938fe34c70bd_Youngstown_SheetTube_Abandoned-e1490314421278.jpg"
+        },
+        {
+          "title": "Your First 100 Transactions",
+          "timeAt": "6:30 pm",
+          "timeTo": "9:30 pm",
+          "where": "Bryant",
+          "date": "30",
+          "month": "may",
+          "img": "https://d1g17mzu1m6f7h.cloudfront.net/events/597c4c5f9ee2_Screen Shot 2017-05-26 at 3.45.21 PM.png"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "copyright": "Copyright © 2017 KNOTEL. All rights reserved.",
+    "navs": [
+      {
+        "name": "Careers",
+        "route": "/careers"
+      },
+      {
+        "name": "Terms",
+        "route": "/terms"
+      },
+      {
+        "name": "Tenant Reps",
+        "route": "/brokers"
+      },
+      {
+        "name": "I have space",
+        "route": "/property"
+      }
+    ]
+  }
+}
